@@ -1,4 +1,4 @@
--- name: CreatUser :one
+-- name: CreateUser :one
 INSERT INTO users (
     username,
     hashed_password,
